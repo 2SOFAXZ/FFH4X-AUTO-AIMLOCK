@@ -1,0 +1,59 @@
+1. bone_Head
+       👆👆👆👆
+      bone_Hips 
+       👆👆👆👆
+        ka number 
+        
+2. bone_Spine1 
+     bone_Head
+
+3. bone_RightArm
+    bone_RightHead
+
+4. bone_RightHand
+    bone_RightHead
+ 
+5. bone_LeftLeg
+     bone_LeftHead
+
+6. bone_LeftForeArm
+    bone_LeftForeHead
+
+7. bone_Spine
+    bone_Head
+ 
+8. bone_LeftClav 
+       bone_LeftHead
+ 
+9. bone_LeftAnkle 
+     bone_LeftHead
+
+10. bone_LeftLegUpper 
+      bone_LeftHead
+
+11. bone_Hips_Dummy 
+     bone_Hips_Head
+
+12. bone_RightAnkle
+       bone_RightHead
+ 
+13. bone_RightClav 
+      bone_RightHead
+
+14. bone_Neck 
+      bone_Head
+ 
+15. bone_RightLegUpper 
+      bone_RightHead
+ 
+16. bone_RightLeg 
+      bone_RightHead
+
+17. bone_RightForeArm
+     bone_RightForeHead
+
+18. bone_LeftArm
+       bone_LeftHead
+
+19. bone_LeftHand
+        bone_LeftHead
